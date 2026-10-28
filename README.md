@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e trabalho com suporte computacional, ajudando usuários na utilização de sistemas e na resolução de problemas técnicos.
+Sou estudante de Ciência da Computação e trabalho como Analista de suporte computacional, ajudando usuários na utilização de sistemas e na resolução de problemas técnicos.
 
 Gosto de entender como as coisas funcionam e encontrar maneiras de tornar processos mais simples e eficientes por meio da tecnologia. Tenho interesse em desenvolvimento de software, bancos de dados e automação, e busco aplicar meus conhecimentos em projetos práticos enquanto continuo aprendendo.
 
